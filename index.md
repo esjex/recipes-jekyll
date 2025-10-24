@@ -1,7 +1,8 @@
 ---
 layout: home
+title: Welcome
+nav_order: 1
 ---
-# Welcome
 
 This small website lists my favourite recipes.
 
