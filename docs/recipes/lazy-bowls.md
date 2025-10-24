@@ -7,7 +7,7 @@ parent: Recipes
 ---
 
 # Lazy bowls
-
+ 
 Quick, easy rice bowls. Lazy versions of nice meals. These can be meat or veggie.
 
 ## Stir-fry bowl
