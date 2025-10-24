@@ -1,10 +1,6 @@
 ---
-layout: page
-title: Welcome
-permalink: /welcome/
-nav_order: 1
+layout: home
 ---
-
 # Welcome
 
 This small website lists my favourite recipes.
